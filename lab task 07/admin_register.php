@@ -176,9 +176,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	<!-- ---fonts E--- -->
 
 
-	<link rel="stylesheet" type="text/css" href="StyleSheet/topNav.css">
-	<link rel="stylesheet" type="text/css" href="StyleSheet/common.css">
-	<link rel="stylesheet" type="text/css" href="StyleSheet/reg.css">
+	<link rel="stylesheet" type="text/css" href="cssfile/topNav.css">
+	<link rel="stylesheet" type="text/css" href="cssfile/common.css">
+	<link rel="stylesheet" type="text/css" href="cssfile/reg.css">
 </head>
 
 
