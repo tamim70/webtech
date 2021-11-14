@@ -71,10 +71,10 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet"> 
 <!-- ---fonts E--- -->
 
-<link rel="stylesheet" type="text/css" href="StyleSheet/leftNav.css">
-<link rel="stylesheet" type="text/css" href="StyleSheet/footer.css">
-<link rel="stylesheet" type="text/css" href="StyleSheet/panel.css">
-<link rel="stylesheet" type="text/css" href="StyleSheet/table.css">
+<link rel="stylesheet" type="text/css" href="cssfile/leftNav.css">
+<link rel="stylesheet" type="text/css" href="cssfile/footer.css">
+<link rel="stylesheet" type="text/css" href="cssfile/panel.css">
+<link rel="stylesheet" type="text/css" href="cssfile/table.css">
 </head>
 
 
